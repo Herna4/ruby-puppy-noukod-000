@@ -21,10 +21,10 @@ class  Dog
     @@all.clear
   end
   
-  def name=(name) 
-    @@name = name
+  # def name=(name) 
+  #   @@name = name
     
-  end
+  # end
   
 end
   
